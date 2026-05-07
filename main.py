@@ -1,5 +1,5 @@
-a = 10
-for i in range(a):
-    print(i)
+"""This is a simple Python script"""
 
-    
+A = 10
+for i in range(A):
+    print(i)
